@@ -188,7 +188,7 @@ export default function Home() {
           </div>
 
           {/* الكروت */}
-          <div className="my-10 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 place-items-center px-4">
+          <div className="my-10 py-10 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 place-items-center px-4">
             {/* برنامج العائلة */}
             <div className="bg-white w-full max-w-[490px] h-full flex flex-col space-y-6 text-center shadow-md rounded-xl p-10 hover:shadow-lg transition-all duration-300 hover:scale-105">
               <img
